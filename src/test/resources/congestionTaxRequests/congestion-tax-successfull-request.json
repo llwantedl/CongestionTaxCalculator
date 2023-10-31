@@ -1,0 +1,34 @@
+{
+  "checkIns": [
+    {
+      "checkInDate": "2023-10-31T15:35:14.666Z",
+      "vehicle": "CAR",
+      "city": "GOTHENBURG"
+    },
+    {
+      "checkInDate": "2023-10-31T15:40:14.666Z",
+      "vehicle": "CAR",
+      "city": "GOTHENBURG"
+    },
+    {
+      "checkInDate": "2023-10-31T16:29:14.666Z",
+      "vehicle": "CAR",
+      "city": "GOTHENBURG"
+    },
+    {
+      "checkInDate": "2023-10-31T16:30:14.666Z",
+      "vehicle": "CAR",
+      "city": "GOTHENBURG"
+    },
+    {
+      "checkInDate": "2023-10-31T17:30:15.666Z",
+      "vehicle": "CAR",
+      "city": "GOTHENBURG"
+    },
+    {
+      "checkInDate": "2023-10-31T21:30:15.666Z",
+      "vehicle": "CAR",
+      "city": "GOTHENBURG"
+    }
+  ]
+}
